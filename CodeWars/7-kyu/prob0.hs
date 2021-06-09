@@ -1,5 +1,8 @@
 -- Start here to find the problems without the temptation of glimpsing at the solutions
 -- Problem 1: https://www.codewars.com/kata/5863f97fb3a675d9a700003f
 -- Problem 2: https://www.codewars.com/kata/51f2d1cafc9c0f745c00037d
+-- Problem 3: https://www.codewars.com/kata/5949481f86420f59480000e7
+-- Problem 4: https://www.codewars.com/kata/56e3cd1d93c3d940e50006a4
+-- Problem 5: https://www.codewars.com/kata/563b662a59afc2b5120000c6
 -- ...
--- Problem 5: https://www.codewars.com/kata/56ed20a2c4e5d69155000301 (save for later to use folds)
+-- Problem 8: https://www.codewars.com/kata/56ed20a2c4e5d69155000301 (save for later to use folds)
