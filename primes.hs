@@ -20,3 +20,5 @@
 -- any
 -- all
 -- elem
+-- zip
+-- sum

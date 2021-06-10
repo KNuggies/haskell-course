@@ -35,7 +35,26 @@ snd' (_, x) = x
 -- max
 -- elem
 -- any
+
 -- sort
+-- merge sort
+sort' :: Ord a => [a] -> [a]
+sort' [] = []
+sort' (x:xs) = sort' left ++ [x] ++ sort' right
+    where left = [z | z <- xs, z <= x]
+          right = [z | z <- xs, z > x]
+
 -- any
 -- all
 -- elems
+
+-- zip
+zip' :: [a] -> [b] -> [(a, b)]
+zip' [] _ = []
+zip' _ [] = []
+zip' (x:xs) (y:ys) = (x, y) : zip' xs ys
+
+-- sum
+sum' :: Num a => [a] -> a
+sum' [] = 0
+sum' (x:xs) = x + sum' xs
