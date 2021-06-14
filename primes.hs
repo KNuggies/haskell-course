@@ -22,3 +22,8 @@
 -- elem
 -- zip
 -- sum
+-- foldl
+-- foldl1
+-- foldr
+-- foldr1
+

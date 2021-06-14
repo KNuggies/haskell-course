@@ -58,3 +58,12 @@ zip' (x:xs) (y:ys) = (x, y) : zip' xs ys
 sum' :: Num a => [a] -> a
 sum' [] = 0
 sum' (x:xs) = x + sum' xs
+
+-- foldl
+foldl' :: (b -> a -> b) -> b -> [a] -> b
+foldl' _ acc [] = acc
+foldl' f acc (x:xs) = foldl' f (f acc x) xs
+
+-- foldl1
+-- foldr
+-- foldr1

@@ -4,5 +4,6 @@
 -- Problem 3: https://www.codewars.com/kata/5949481f86420f59480000e7
 -- Problem 4: https://www.codewars.com/kata/56e3cd1d93c3d940e50006a4
 -- Problem 5: https://www.codewars.com/kata/563b662a59afc2b5120000c6
--- ...
--- Problem 8: https://www.codewars.com/kata/56ed20a2c4e5d69155000301 (save for later to use folds)
+-- Problem 6: https://www.codewars.com/kata/609eee71109f860006c377d1
+-- Problem 7: https://www.codewars.com/kata/60bcef3c4a3ef30015bc05dd
+-- Problem 8: https://www.codewars.com/kata/56ed20a2c4e5d69155000301
